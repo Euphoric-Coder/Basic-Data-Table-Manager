@@ -3,9 +3,9 @@ import "./globals.css";
 import Providers from "@/store/Providers";
 
 export const metadata: Metadata = {
-  title: "Dynamic Data Table Manager",
+  title: "Data Table Manager",
   description:
-    "Next.js + Redux Toolkit + MUI + CSV Import/Export + Inline Editing",
+    "",
 };
 
 export default function RootLayout({
